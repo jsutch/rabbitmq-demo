@@ -1,0 +1,1 @@
+ while true ; do python new_task.py test${x}; sleep 10;let "x++"; done
